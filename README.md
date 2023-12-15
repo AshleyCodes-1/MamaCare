@@ -61,15 +61,15 @@ Local Server-
 ## Gallery
 
 <p float="left">
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home1.jpg" alt="Home1" width="400" />
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home2.jpg" alt="Home2" width="400" /> 
+  <img src="https://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Home.jpg" alt="Home" width="400" />
+  <img src="hhttps://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Login.jpg" alt="Login" width="400" /> 
 </p>
 <p float="left">
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home3.jpg" alt="Home3" width="400" />
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Blog.jpg" alt="Blog" width="400" /> 
+  <img src="https://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Stats.jpg" alt="Stats" width="400" />
+  <img src="https://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Gallery.jpg" alt="Gallery" width="400" /> 
 </p>
 <p float="left">
-  <img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Footer.jpg" alt="Footer" width="400" />
+  <img src="https://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Footer.jpg" alt="Footer" width="400" />
 </p>
 
 
