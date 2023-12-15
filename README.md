@@ -61,8 +61,8 @@ Local Server-
 ## Gallery
 
 <p float="left">
-  <img src="https://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Home.jpg" alt="Home" width="400" />
-  <img src="hhttps://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Login.jpg" alt="Login" width="400" /> 
+  <img src="https://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Home.jpg" alt="Home" height="300" width="400" />
+  <img src="https://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Login.jpg" alt="Login" width="400" /> 
 </p>
 <p float="left">
   <img src="https://github.com/AshleyCodes-1/MamaCare/blob/main/screenshots/Stats.jpg" alt="Stats" width="400" />
