@@ -3,23 +3,14 @@
 **View the Front End of the website here ➔** [Mama Care](https://ashleycodes-1.github.io/MamaCare/)
 
 A comprehensive Healthcare website especially for pregnant mothers providing an All-in-One information and guide of all stages of pregnancy. This Website was built using latest [Technologies Used](#technology). 
+
 Being locally hosted using **Xampp**. Download and documentation can be found here ➔ [Xampp - ApacheFriends.org](https://www.apachefriends.org/download.html)
+
 The Database operations are handled by phpMyAdmin that has already included [MariaDB](https://mariadb.org/)
 
 The Front End is completely responsive having smooth transitions.
-Find the Source code for the Front End only part of the project at the [Frontend-only](https://github.com/AshleyCodes-1/MamaCare/tree/Frontend-only) branch of Mama Care.
+Source code for the Front End only part ➔ [Frontend-only](https://github.com/AshleyCodes-1/MamaCare/tree/Frontend-only) branch of Mama Care.
 
-README will be updated soon...
-
-# Fitness 360˚
-
-**View the hosted website here ➔** [Fitness 360˚](https://ashleycodes-1.github.io/Fitness360/)
-
-
-Welcome to Fitness 360˚! This is a comprehensive fitness website designed and developed using popular Front-End tools.
-The Database operations are handled by [Mongo Atlas](https://www.mongodb.com/atlas)
-
-It is a completely responsive webite having smooth transitions.
 
 **Star this project if you like it!**
 
@@ -37,12 +28,27 @@ It is a completely responsive webite having smooth transitions.
 
 ## Technologies Used
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/Css/)
+Front-End Technologies-
+
+- [HTML5](https://www.w3schools.com/html/)
+- [CSS3](https://www.w3schools.com/Css/)
 - [Bootstrap](https://getbootstrap.com/)
-- [NodeJS](https://nodejs.org/en)
-- [ExpressJS](http://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
+- [JavaScript](https://www.w3schools.com/js/js_intro.asp)
+- [JQuery](https://jquery.com/)
+- [Ajax](https://www.w3schools.com/xml/ajax_intro.asp)
+
+Back-End Technologies-
+
+- [PHP](https://www.php.net/)
+- [Laravel Framework](https://laravel.com/)
+
+Database-
+
+- [MySQL](https://www.mysql.com/)
+
+Local Server-
+
+- [Xampp](https://www.apachefriends.org/download.html)
 
 ## Features
 
