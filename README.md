@@ -2,7 +2,8 @@
 
 **View the Front End of the website here ➔** [Mama Care](https://ashleycodes-1.github.io/MamaCare/)
 
-A Healthcare website especially for pregnant mothers providing a complete information and guide of all trimesters. Currently consists of Front-End using HTML, CSS and JS. Plans to incorporate Back-End database and server deployment.
+A comprehensive Healthcare website especially for pregnant mothers providing an All-in-One information and guide of all stages of pregnancy. This Website was built using latest [Technologies Used](#technology). 
+Being locally hosted using **Xampp**. Download and documentation can be found here ➔ [Xampp - ApacheFriends.org](https://www.apachefriends.org/download.html)
 The Database operations are handled by phpMyAdmin that has already included [MariaDB](https://mariadb.org/)
 
 The Front End is completely responsive having smooth transitions.
